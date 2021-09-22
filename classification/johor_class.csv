@@ -1,0 +1,6 @@
+,Classification Method,Accuracy
+0,Naive Bayes,0.182320442
+1,KNN-Classification,0.215469613
+2,SVM,0.215469613
+3,Logistic Regression,0.2
+4,CART Classification Tree,0.198895028

@@ -1,0 +1,40 @@
+,Features,Score
+15,new_cases_Negeri Sembilan,1.0
+16,active_case_Negeri Sembilan,0.97
+36,active_case_W.P. Labuan,0.95
+35,new_cases_W.P. Labuan,0.95
+4,rtk-ag,0.89
+13,new_cases_Melaka,0.87
+38,active_case_W.P. Putrajaya,0.84
+29,new_cases_Selangor,0.84
+37,new_cases_W.P. Putrajaya,0.79
+3,active_cases,0.76
+14,active_case_Melaka,0.74
+0,cases_new,0.71
+11,new_cases_Kelantan,0.71
+26,active_case_Sabah,0.66
+1,cases_import,0.63
+33,new_cases_W.P. Kuala Lumpur,0.63
+17,new_cases_Pahang,0.58
+5,pcr,0.55
+30,active_case_Selangor,0.53
+10,active_case_Kedah,0.5
+6,daily_positivity_rate,0.47
+34,active_case_W.P. Kuala Lumpur,0.45
+27,new_cases_Sarawak,0.42
+12,active_case_Kelantan,0.39
+25,new_cases_Sabah,0.37
+23,new_cases_Pulau Pinang,0.34
+31,new_cases_Terengganu,0.34
+8,active_case_Johor,0.29
+28,active_case_Sarawak,0.26
+18,active_case_Pahang,0.24
+19,new_cases_Perak,0.21
+22,active_case_Perlis,0.18
+7,new_cases_Johor,0.18
+2,cases_recovered,0.13
+32,active_case_Terengganu,0.11
+9,new_cases_Kedah,0.11
+21,new_cases_Perlis,0.05
+20,active_case_Perak,0.05
+24,active_case_Pulau Pinang,0.0
